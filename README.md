@@ -19,7 +19,7 @@ Operators:
 *if `boolean expression` then `list of operators` fi*
 
 Basic program example:
-`program
+```program
 
 
 a = 32-2/f
@@ -73,4 +73,4 @@ else
 fi
 
 
-end`
+end```
