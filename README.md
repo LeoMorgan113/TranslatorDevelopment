@@ -32,35 +32,16 @@ for x=0 to 2.5 step 0.5 do
     write(x) 
 next
 
-
 if a>=10 then
-
-
     write(a)
-    
-    
     if a==30 then
-    
-    
         a=a*2
-	
-	
-	    write(a)
-	    
-	    
+	    write(a)        
     fi
-    
-    
 else
-
-
-    b = b-10
-    
-    
-    write(f)
-    
-    
+    b = b-10    
+    write(f) 
 fi
 
-
-end```
+end
+```
