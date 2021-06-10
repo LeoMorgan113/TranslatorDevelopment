@@ -21,23 +21,56 @@ Operators:
 Basic program example:
 `program
 
+
 a = 32-2/f
+
+
 b = 0.4E+2
+
+
 c = 900E-2
+
+
 write(f)
+
+
 for x=0 to 2.5 step 0.5 do
+
+
     write(x)
+    
+    
 next
 
+
 if a>=10 then
+
+
     write(a)
+    
+    
     if a==30 then
+    
+    
         a=a*2
+	
+	
 	    write(a)
+	    
+	    
     fi
+    
+    
 else
+
+
     b = b-10
+    
+    
     write(f)
+    
+    
 fi
+
 
 end`
