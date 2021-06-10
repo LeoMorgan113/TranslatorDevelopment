@@ -1,7 +1,7 @@
 # TranslatorDevelopment
 ![LM 113](https://user-images.githubusercontent.com/56256429/121577585-55b47f00-ca32-11eb-8824-9ced3f3a1f56.png)
 
-The aim of the course work is a software product written in the Python programming language in the JetBrains PyCharm environment.
+The aim of the course work is a software product written on Python.
 
 The result of this course work is the creation of imperative language general purpose programming __LM113__. 
 
