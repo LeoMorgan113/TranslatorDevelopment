@@ -1,9 +1,7 @@
 # TranslatorDevelopment
 ![LM 113](https://user-images.githubusercontent.com/56256429/121577585-55b47f00-ca32-11eb-8824-9ced3f3a1f56.png)
 
-The aim of the course work is a software product written on Python.
-
-The result of this course work is the creation of imperative language general purpose programming __LM113__. 
+The result of course work is the creation of imperative language general purpose programming __LM113__ written on Python. 
 
 The explanatory note provides a detailed description of the grammar of the language, the structure of the lexical analyzer, translator and interpreter of the Polish inversion notation(POLIZ). 
 
