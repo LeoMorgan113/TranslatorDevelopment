@@ -13,8 +13,9 @@ The lexical analyzer uses state diagrams to parse the input text.
 
 The translator supports _*arithmetic operations, work with negative ones numbers, conditional operator and loop operator,data input / output operators and exponential form of a real number.*_
 
-- __*for*__ structure:
+Operators:
+- __*for*__:
 *for `ident`=`expression` to `expression` step `expression` do `list of operators` next*
 
-- __*if*__ structure:
+- __*if*__:
 *if `boolean expression` then `list of operators` fi*
